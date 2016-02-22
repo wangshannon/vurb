@@ -1,0 +1,15 @@
+#data li {
+    padding: 30px;
+    border: 1px solid black;
+    margin: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 200px;
+    list-style-type: none;
+    text-align: center;
+}
+
+/*Removes "Loading..." when JSON is done downloading*/
+#loading {
+	display: none;
+}
